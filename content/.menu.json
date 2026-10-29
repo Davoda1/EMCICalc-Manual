@@ -1,0 +1,79 @@
+{
+  "title": "EMCICalc Desktop 1.0.0 — User Manual",
+  "entries": [
+    {
+      "search": true,
+      "label": "Search the manual"
+    },
+    {
+      "text": "GET STARTED · CALCULATE · EXPLORE · SAVE"
+    },
+    {
+      "path": "01-install.md",
+      "label": "01. Install and start"
+    },
+    {
+      "path": "02-interface-tour.md",
+      "label": "02. Get oriented"
+    },
+    {
+      "path": "03-first-calculation.md",
+      "label": "03. Make your first calculation"
+    },
+    {
+      "path": "04-editing.md",
+      "label": "04. Enter and edit mathematics"
+    },
+    {
+      "path": "05-history-memory.md",
+      "label": "05. Reuse answers, history and registers"
+    },
+    {
+      "path": "06-conversions.md",
+      "label": "06. Convert units and currencies"
+    },
+    {
+      "path": "07-graphs-tables.md",
+      "label": "07. Plot a curve and read a table"
+    },
+    {
+      "path": "08-workbenches.md",
+      "label": "08. Use the mathematical workbenches"
+    },
+    {
+      "path": "09-input-workflows.md",
+      "label": "09. Customize your working method"
+    },
+    {
+      "path": "10-appearance-help.md",
+      "label": "10. Appearance, language and help"
+    },
+    {
+      "path": "11-save-restore.md",
+      "label": "11. Save, export and back up"
+    },
+    {
+      "path": "12-keyboard-reference.md",
+      "label": "12. Keyboard quick reference"
+    },
+    {
+      "path": "13-troubleshooting.md",
+      "label": "13. Troubleshooting"
+    },
+    {
+      "path": "14-about.md",
+      "label": "14. About these illustrations and the software"
+    },
+    {
+      "text": "DETAILED REFERENCE"
+    },
+    {
+      "path": "finance",
+      "label": "Finance reference — fields, examples and conventions"
+    },
+    {
+      "path": "images",
+      "label": "Illustration gallery and provenance"
+    }
+  ]
+}

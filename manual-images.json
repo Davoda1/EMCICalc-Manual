@@ -1,0 +1,44 @@
+[
+  {
+    "file": "EMCICalc-1.0.0-Desktop-Linux-classic-landscape.png",
+    "alt": "Calculator mode in landscape",
+    "width": 800,
+    "height": 540,
+    "sha256": "2aba0a156ee574bda995c465eb7518aa8072eac91dfe877540635c3d10c1e9e7"
+  },
+  {
+    "file": "EMCICalc-1.0.0-Desktop-Linux-desktop-dark.png",
+    "alt": "Desktop calculation and graphing workspace in dark appearance",
+    "width": 1180,
+    "height": 760,
+    "sha256": "38d4f63418015ef74756cca2370c36324bdeb28088534356c66658f5fa80a53e"
+  },
+  {
+    "file": "EMCICalc-1.0.0-Desktop-Linux-desktop-light.png",
+    "alt": "Desktop workspace in light appearance",
+    "width": 1180,
+    "height": 760,
+    "sha256": "0232f4b4fa3f15b94ad25c04aa3f5f54c03520503c2365fe9be9b8bfa15ab716"
+  },
+  {
+    "file": "EMCICalc-1.0.0-Desktop-Linux-desktop-settings.png",
+    "alt": "Desktop settings",
+    "width": 960,
+    "height": 760,
+    "sha256": "497cfaa3bd323bb71d70acfcf2206617c0a83c243473ed69475d811fea4e13a5"
+  },
+  {
+    "file": "EMCICalc-1.0.0-Desktop-Linux-exact-radical-fraction.png",
+    "alt": "An exact radical fraction in Calculator mode",
+    "width": 360,
+    "height": 720,
+    "sha256": "94584e4377d1e8451dd1d95ca5ccb952c8b5e8498b2d41f9309a310df41a51c3"
+  },
+  {
+    "file": "EMCICalc-1.0.0-Desktop-Linux-unit-converter.png",
+    "alt": "Celsius to Fahrenheit conversion",
+    "width": 320,
+    "height": 640,
+    "sha256": "05a7b55b91f14b2b73abb7894f66f6fe335d8f23fc15a4453791e527c5b2a780"
+  }
+]

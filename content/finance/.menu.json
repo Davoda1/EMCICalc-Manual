@@ -1,0 +1,45 @@
+{
+  "title": "Finance reference",
+  "entries": [
+    {
+      "path": "..",
+      "label": "Back to the user manual"
+    },
+    {
+      "path": "01-using-the-worksheets.md",
+      "label": "Using the worksheets"
+    },
+    {
+      "path": "02-units-rates-dates-and-rounding.md",
+      "label": "Units, rates, dates and rounding"
+    },
+    {
+      "path": "03-finding-the-right-worksheet.md",
+      "label": "Finding the right worksheet"
+    },
+    {
+      "path": "04-loans-and-borrowing.md",
+      "label": "Loans and borrowing"
+    },
+    {
+      "path": "05-tax-vat-and-invoices.md",
+      "label": "Tax, VAT & invoices"
+    },
+    {
+      "path": "06-pricing-and-business.md",
+      "label": "Pricing & business"
+    },
+    {
+      "path": "07-investments-savings-and-economics.md",
+      "label": "Investments, savings and economics"
+    },
+    {
+      "path": "08-callable-expression-helpers.md",
+      "label": "Callable expression helpers"
+    },
+    {
+      "path": "09-interpreting-schedules-and-numerical-searches.md",
+      "label": "Interpreting schedules and numerical searches"
+    }
+  ]
+}

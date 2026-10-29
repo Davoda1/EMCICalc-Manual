@@ -1,0 +1,29 @@
+{
+  "title": "Illustration gallery",
+  "entries": [
+    {
+      "path": "EMCICalc-1.0.0-Desktop-Linux-classic-landscape.png",
+      "label": "Calculator mode in landscape"
+    },
+    {
+      "path": "EMCICalc-1.0.0-Desktop-Linux-desktop-dark.png",
+      "label": "Desktop calculation and graphing workspace in dark appearance"
+    },
+    {
+      "path": "EMCICalc-1.0.0-Desktop-Linux-desktop-light.png",
+      "label": "Desktop workspace in light appearance"
+    },
+    {
+      "path": "EMCICalc-1.0.0-Desktop-Linux-desktop-settings.png",
+      "label": "Desktop settings"
+    },
+    {
+      "path": "EMCICalc-1.0.0-Desktop-Linux-exact-radical-fraction.png",
+      "label": "An exact radical fraction in Calculator mode"
+    },
+    {
+      "path": "EMCICalc-1.0.0-Desktop-Linux-unit-converter.png",
+      "label": "Celsius to Fahrenheit conversion"
+    }
+  ]
+}

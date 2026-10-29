@@ -1,0 +1,33 @@
+/* Reading and illustration refinements over Gopher's compact directory theme. */
+body { max-width: 1160px; margin: 24px auto; padding: 0 24px; }
+h1 { line-height: 1.15; overflow-wrap: anywhere; }
+.document, .intro { max-width: 92ch; font-size: 15px; line-height: 1.72; }
+.markdown h2 { margin-top: 1.8em; }
+.markdown h3 { margin-top: 1.5em; }
+.markdown li { margin: .35em 0; }
+.menu td { padding-top: 5px; padding-bottom: 5px; }
+.menu .summary { font-size: 12px; }
+.menu col.type-col, .menu .type { display: none; }
+.manual-figure { margin: 1.5em 0; width: 100%; break-inside: avoid; }
+.manual-image { position: relative; width: 100%; line-height: 0; }
+.manual-image img { display: block; width: 100%; height: auto; border-radius: 4px; }
+.manual-callouts { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.manual-figure figcaption { font-size: 13px; line-height: 1.65; margin-top: .7em; }
+.manual-legend { padding-left: 2em; }
+.manual-legend li::marker { font-weight: bold; }
+.table-scroll { margin: 1.1em 0; }
+.markdown th, .markdown td { padding: .5em .7em; }
+footer { font-size: 14px; line-height: 1.7; padding-bottom: 1em; }
+@media(max-width: 600px) {
+  body { margin: 16px auto; padding: 0 16px; }
+  h1 { font-size: 1.7em; }
+  .document, .intro { font-size: 14px; }
+  .menu col.type-col { width: 48px; }
+  .menu col.icon-col { width: 28px; }
+  .menu .summary { font-size: 11px; }
+}
+@media print {
+  body { margin: 0; padding: 0; max-width: none; }
+  .manual-image img { max-height: none; }
+  .manual-figure { max-width: 150mm !important; }
+}

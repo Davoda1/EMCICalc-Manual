@@ -1,0 +1,9 @@
+{
+  "EMCICalc-1.0.0-Desktop-Linux-desktop-dark.png": [
+    {"label": [220, 240], "target": [153, 181], "text": "Expression editor: enter mathematics here, then press Enter or equals to confirm a result."},
+    {"label": [445, 230], "target": [408, 126], "text": "Calculation controls: check the angle convention and Exact/Decimal presentation before interpreting a result."},
+    {"label": [290, 280], "target": [290, 310], "text": "Memory strip: MS stores, MR recalls, M+ adds and MC clears the independent M memory."},
+    {"label": [795, 290], "target": [766, 167], "text": "Graph tabs: switch between Plot, Series, Range and Table to configure and inspect the workspace."},
+    {"label": [990, 68], "target": [1064, 32], "text": "Settings gear: adjust appearance, input, calculation and saved-data preferences."}
+  ]
+}

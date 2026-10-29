@@ -1,0 +1,11 @@
+{
+  "name": "Gopher HTTP",
+  "version": "3.0.0",
+  "source_archive": "Gopher-HTTP-3.0.0-Universal-Template-Source.zip",
+  "source_archive_sha256": "5eb1db2b93a7e6c068f4a8cf354c4c1f88edd517242eb03c7d70dd927406de5c",
+  "files": {
+    "index.php": "f8090a3f3802053c2f965b1ec6113d3b9ff6d2095b436787da91720daf2f440b",
+    "LICENSE": "13fdb8d01ba9ab50de101f6f51be295a27e812d356373b059fd8bb407f7d9a86"
+  },
+  "modifications": "None. Project-specific presentation is applied to generated HTML by tools/enhance.py."
+}

@@ -1,0 +1,15 @@
+{
+  "site_name": "EMCICalc Desktop 1.0.0 — User Manual",
+  "description": "The illustrated EMCICalc Desktop 1.0.0 user manual: calculations, workbenches, settings and workspace storage.",
+  "language": "en",
+  "gopher_host": "localhost",
+  "gopher_port": 70,
+  "external_gopher": "disabled",
+  "static_search": true,
+  "show_checksums": false,
+  "show_details": true,
+  "page_size": 100,
+  "search_page_size": 30,
+  "search_budget_bytes": 16777216,
+  "show_types": false
+}

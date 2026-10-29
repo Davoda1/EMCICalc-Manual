@@ -1,0 +1,237 @@
+{
+  "items": {
+    "01-install.md": {
+      "title": "01. Install and start",
+      "description": "Windows and Linux packages, startup and checksums.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "02-interface-tour.md": {
+      "title": "02. Get oriented",
+      "description": "Find the editor, mode controls, graph workspace and tools.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "03-first-calculation.md": {
+      "title": "03. Make your first calculation",
+      "description": "Exact fractions, decimals, Ans and angle conventions.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "04-editing.md": {
+      "title": "04. Enter and edit mathematics",
+      "description": "Natural input, templates, SHIFT, ALPHA, REG and bases.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "05-history-memory.md": {
+      "title": "05. Reuse answers, history and registers",
+      "description": "Reuse answers, inspect History and manage memory.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "06-conversions.md": {
+      "title": "06. Convert units and currencies",
+      "description": "Convert compatible units and dated currency rates.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "07-graphs-tables.md": {
+      "title": "07. Plot a curve and read a table",
+      "description": "Plot series, adjust the view and export tables.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "08-workbenches.md": {
+      "title": "08. Use the mathematical workbenches",
+      "description": "Algebra, Steps, matrices, statistics and Finance.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "09-input-workflows.md": {
+      "title": "09. Customize your working method",
+      "description": "Definitions, Classic, RPN, Programmer and custom keypads.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "10-appearance-help.md": {
+      "title": "10. Appearance, language and help",
+      "description": "Settings, themes, fonts, languages and context help.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "11-save-restore.md": {
+      "title": "11. Save, export and back up",
+      "description": "Profiles, workspace exchange and safe recovery.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "12-keyboard-reference.md": {
+      "title": "12. Keyboard quick reference",
+      "description": "Navigation, editing, memory and keypad shortcuts.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "13-troubleshooting.md": {
+      "title": "13. Troubleshooting",
+      "description": "Resolve common input, display, graph and startup issues.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "14-about.md": {
+      "title": "14. About these illustrations and the software",
+      "description": "Illustration provenance, licensing and project links.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Desktop-Linux-classic-landscape.png": {
+      "title": "Calculator mode in landscape",
+      "alt": "Calculator mode in landscape",
+      "description": "EMCICalc 1.0.0 — Linux desktop application capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Desktop-Linux-desktop-dark.png": {
+      "title": "Desktop calculation and graphing workspace in dark appearance",
+      "alt": "Desktop calculation and graphing workspace in dark appearance",
+      "description": "EMCICalc 1.0.0 — Linux desktop application capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Desktop-Linux-desktop-light.png": {
+      "title": "Desktop workspace in light appearance",
+      "alt": "Desktop workspace in light appearance",
+      "description": "EMCICalc 1.0.0 — Linux desktop application capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Desktop-Linux-desktop-settings.png": {
+      "title": "Desktop settings",
+      "alt": "Desktop settings",
+      "description": "EMCICalc 1.0.0 — Linux desktop application capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Desktop-Linux-exact-radical-fraction.png": {
+      "title": "An exact radical fraction in Calculator mode",
+      "alt": "An exact radical fraction in Calculator mode",
+      "description": "EMCICalc 1.0.0 — Linux desktop application capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Desktop-Linux-unit-converter.png": {
+      "title": "Celsius to Fahrenheit conversion",
+      "alt": "Celsius to Fahrenheit conversion",
+      "description": "EMCICalc 1.0.0 — Linux desktop application capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images": {
+      "title": "Illustration gallery",
+      "description": "These illustrations show the actual Linux desktop application. Windows decorations, fonts and scaling can differ.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "finance": {
+      "title": "Finance reference",
+      "description": "Complete worksheet fields, examples, financial helper syntax and interpretation notes.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/01-using-the-worksheets.md": {
+      "title": "Using the worksheets",
+      "description": "Open a financial worksheet, enter expressions, work with tables, calculate and copy results.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/02-units-rates-dates-and-rounding.md": {
+      "title": "Units, rates, dates and rounding",
+      "description": "Understand fractional rates, consistent units, dated accrual and monetary rounding.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/03-finding-the-right-worksheet.md": {
+      "title": "Finding the right worksheet",
+      "description": "Choose among all 29 financial worksheets by category and purpose.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/04-loans-and-borrowing.md": {
+      "title": "Loans and borrowing",
+      "description": "Complete field references and examples for loans, overpayments, credit and refinancing.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/05-tax-vat-and-invoices.md": {
+      "title": "Tax, VAT & invoices",
+      "description": "Complete field references and examples for tax, net-to-gross, invoices and VAT.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/06-pricing-and-business.md": {
+      "title": "Pricing & business",
+      "description": "Complete field references and examples for pricing, depreciation, allocation, forecasting and inventory.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/07-investments-savings-and-economics.md": {
+      "title": "Investments, savings and economics",
+      "description": "Complete field references and examples for NPV, IRR, savings, growth, inflation and currency fees.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/08-callable-expression-helpers.md": {
+      "title": "Callable expression helpers",
+      "description": "Syntax, parameter meanings and examples for the 26 callable financial helper signatures.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/09-interpreting-schedules-and-numerical-searches.md": {
+      "title": "Interpreting schedules and numerical searches",
+      "description": "Interpret schedules, fee accounting, numerical search bounds and currency comparison assumptions.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    }
+  }
+}
